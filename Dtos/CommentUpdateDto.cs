@@ -1,0 +1,20 @@
+namespace timofeev_condi.Dtos;
+
+public sealed class CommentUpdateDto
+{
+
+
+
+
+    public string Message { get; set; }
+
+
+
+    public int? MasterId { get; set; }
+
+
+
+    public int RequestId { get; set; }
+
+
+}

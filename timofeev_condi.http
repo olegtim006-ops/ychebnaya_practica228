@@ -1,0 +1,6 @@
+@timofeev_condi_HostAddress = http://localhost:5110
+
+GET {{timofeev_condi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
